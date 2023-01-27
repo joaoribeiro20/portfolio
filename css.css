@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+}
+.td{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+.topo{
+    position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #0B405E;
+}
+
+
+.sobre{
+    background: linear-gradient(rgba(11, 64, 94, 1), rgba(168, 168, 168, 1));
+}
+.centro{
+    background-color: rgb(0, 213, 228);
+    height: 300px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.caixa1{
+    color: aliceblue;
+    background-color: rgb(4, 0, 63);
+    border-radius: 10px;
+    height: 150px;
+}
+.caixa2{
+    color: aliceblue;
+    background-color: rgb(4, 0, 63);
+    border-radius: 10px;
+    height: 150px;
+
+}
+.caixa3{
+    color: aliceblue;
+    background-color: rgb(4, 0, 63);
+    border-radius: 10px;
+    height: 150px;
+}
